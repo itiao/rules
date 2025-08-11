@@ -105,11 +105,9 @@
 /^p2p[\w.-]*?-ws\.douyucdn\.cn^
 /^dyp2p-[\w.-]*?\.douyucdn\.cn^
 /^p2p-[\w.-]*?\.douyucdn\.cn^
-/^.*pcdn.*biliapi\.net^
 /^.*pcdn.*youku\.com^
 /^.*p2p.*douyucdn\.cn^
 /^.*p2p.*qq\.com^
-/.*pcdn.*biliapi\.net/
 /.*pcdn.*youku\.com/
 /.*p2p.*douyucdn\.cn/
 /.*p2p.*qq\.com/
